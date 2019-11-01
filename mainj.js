@@ -9,7 +9,6 @@ function handleButtonType(value) {
   } else {
     handleNumbers(value);
   }
-
   rerender();
 }
 
